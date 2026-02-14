@@ -1,4 +1,4 @@
-# GAME FOR FUN
+# GAME
 
 <p align="center">
     <img src="game.gif">
